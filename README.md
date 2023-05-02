@@ -2,9 +2,8 @@
 
 With order track library you can easily integrate tracking view of library with all the customization in Horizontal & Vertical direction.
 
-<p align="center">
-![order_track_example gif](/media/order_track_example.gif) 
-</p>
+![Screenshot 2023-05-02 at 1 56 16 PM](https://user-images.githubusercontent.com/87113814/235617000-10f47bf5-47e2-46f0-a0de-82f23f6597dd.png)
+  ![Screenshot 2023-05-02 at 1 58 37 PM](https://user-images.githubusercontent.com/87113814/235617458-d72c91c2-5d16-4f1f-bdfe-3706456f9ab6.png)
 
 ## Installation
 
@@ -17,7 +16,8 @@ yarn add @mindinventory/order-tracking
 Using npm
 
 ```sh
-npm i @mindinventory/order-tracking
+npm i @mindinventory/order-tracking![Screenshot 2023-05-02 at 1 56 58 PM](https://user-images.githubusercontent.com/87113814/235617138-168ad2a3-0e1c-4737-9b23-51ea11ec6bba.png)
+
 ```
 
 ## Usage
