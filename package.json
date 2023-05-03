@@ -1,6 +1,6 @@
 {
   "name": "@mindinventory/order-tracking",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "Library used to integrate tracking view of orders",
   "main": "lib/commonjs/index",
   "module": "lib/module/index",
@@ -42,13 +42,13 @@
     "order",
     "delivery"
   ],
-  "repository": "https://github.com/Mindinventory/@mindinventory/order-tracking",
+  "repository": "https://github.com/Mindinventory/rn-order-tracking",
   "author": "Mindinventory",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Mindinventory/@mindinventory/order-tracking/issues"
+    "url": "https://github.com/Mindinventory/rn-order-tracking/issues"
   },
-  "homepage": "https://github.com/Mindinventory/@mindinventory/order-tracking#readme",
+  "homepage": "https://github.com/Mindinventory/rn-order-tracking#readme",
   "publishConfig": {
     "registry": "https://registry.npmjs.org/"
   },

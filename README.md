@@ -17,7 +17,7 @@ yarn add @mindinventory/order-tracking
 Using npm
 
 ```sh
-npm i @mindinventory/order-tracking![Screenshot 2023-05-02 at 1 56 58 PM](https://user-images.githubusercontent.com/87113814/235617138-168ad2a3-0e1c-4737-9b23-51ea11ec6bba.png)
+npm i @mindinventory/order-tracking
 
 ```
 
@@ -106,13 +106,15 @@ See the [contributing guide](CONTRIBUTING.md) to learn how to contribute to the 
 
 ## License!
 
-@mindinventory/order-tracking [MIT-licensed](https://github.com/Mindinventory/rn-order-tracking/blob/main/LICENSE).
+@mindinventory/order-tracking [MIT-licensed](https://github.com/Mindinventory/rn-order-tracking/blob/master/LICENSE).
 
 # Let us know!
 
 If you use our open-source libraries in your project, please make sure to credit us and Give a star to www.mindinventory.com
 
 <p><h4>Please feel free to use this component and Let us know if you are interested to building Apps or Designing Products.</h4>
+
+<br>
 <a href="https://www.mindinventory.com/contact-us.php?utm_source=gthb&utm_medium=repo&utm_campaign=@mindinventory/order-tracking" target="__blank">
 
 <img src="./media/hire_button.png" width="203" height="43"  alt="app development">
