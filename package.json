@@ -1,6 +1,6 @@
 {
   "name": "@mindinventory/order-tracking",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "Library used to integrate tracking view of orders",
   "main": "lib/commonjs/index",
   "module": "lib/module/index",

@@ -113,6 +113,8 @@ See the [contributing guide](CONTRIBUTING.md) to learn how to contribute to the 
 If you use our open-source libraries in your project, please make sure to credit us and Give a star to www.mindinventory.com
 
 <p><h4>Please feel free to use this component and Let us know if you are interested to building Apps or Designing Products.</h4>
+
+<br>
 <a href="https://www.mindinventory.com/contact-us.php?utm_source=gthb&utm_medium=repo&utm_campaign=@mindinventory/order-tracking" target="__blank">
 
 <img src="./media/hire_button.png" width="203" height="43"  alt="app development">
