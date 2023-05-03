@@ -17,7 +17,7 @@ yarn add @mindinventory/order-tracking
 Using npm
 
 ```sh
-npm i @mindinventory/order-tracking![Screenshot 2023-05-02 at 1 56 58 PM](https://user-images.githubusercontent.com/87113814/235617138-168ad2a3-0e1c-4737-9b23-51ea11ec6bba.png)
+npm i @mindinventory/order-tracking
 
 ```
 
