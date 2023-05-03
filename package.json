@@ -42,13 +42,13 @@
     "order",
     "delivery"
   ],
-  "repository": "https://github.com/Mindinventory/@mindinventory/order-tracking",
+  "repository": " https://github.com/Mindinventory/rn-order-tracking",
   "author": "Mindinventory",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Mindinventory/@mindinventory/order-tracking/issues"
+    "url": "https://github.com/Mindinventory/rn-order-trackingissues"
   },
-  "homepage": "https://github.com/Mindinventory/@mindinventory/order-tracking#readme",
+  "homepage": "https://github.com/Mindinventory/rn-order-tracking#readme",
   "publishConfig": {
     "registry": "https://registry.npmjs.org/"
   },
