@@ -106,7 +106,7 @@ See the [contributing guide](CONTRIBUTING.md) to learn how to contribute to the 
 
 ## License!
 
-@mindinventory/order-tracking [MIT-licensed](https://github.com/Mindinventory/rn-order-tracking/blob/main/LICENSE).
+@mindinventory/order-tracking [MIT-licensed](https://github.com/Mindinventory/rn-order-tracking/blob/master/LICENSE).
 
 # Let us know!
 
