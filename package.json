@@ -46,7 +46,7 @@
   "author": "Mindinventory",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Mindinventory/rn-order-trackingissues"
+    "url": "https://github.com/Mindinventory/rn-order-tracking/issues"
   },
   "homepage": "https://github.com/Mindinventory/rn-order-tracking#readme",
   "publishConfig": {
