@@ -42,7 +42,7 @@
     "order",
     "delivery"
   ],
-  "repository": " https://github.com/Mindinventory/rn-order-tracking",
+  "repository": "https://github.com/Mindinventory/rn-order-tracking",
   "author": "Mindinventory",
   "license": "MIT",
   "bugs": {
