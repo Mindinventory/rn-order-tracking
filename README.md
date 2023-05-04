@@ -2,9 +2,7 @@
 
 With order track library you can easily integrate tracking view of library with all the customization in Horizontal & Vertical direction.
 
-
-![order_track_example gif](/media/order_track_example.gif) 
-
+![order_track_example gif](/media/vertical_gif.gif) ![order_track_example gif](/media/horizontal_gif.gif)
 
 ## Installation
 
