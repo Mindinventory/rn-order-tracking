@@ -10,10 +10,11 @@ export const colors = {
   primaryRed: '#E6758F',
   transparent: 'transparent',
   white: 'white',
+  whiteSmoke: '#f5f5f5',
 };
 
 export const styles = StyleSheet.create({
-  flex: { flex: 1, backgroundColor: '#f5f5f5' },
+  flex: { flex: 1, backgroundColor: colors.whiteSmoke },
   header: {
     alignItems: 'center',
     backgroundColor: colors.primaryRed,
@@ -62,14 +63,12 @@ export const styles = StyleSheet.create({
     marginHorizontal: 20,
   },
   orderStatusText: {
-    // fontSize: 10,
     fontWeight: '600',
     letterSpacing: 1,
     marginTop: 3,
   },
   orderDateText: {
     color: 'grey',
-    // fontSize: 12,
     letterSpacing: 0.5,
     marginTop: 4,
   },
