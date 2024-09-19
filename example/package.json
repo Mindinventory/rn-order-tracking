@@ -14,7 +14,7 @@
     "react": "16.13.1",
     "react-native": "0.68.0",
     "react-native-gesture-handler": "^2.9.0",
-    "react-native-reanimated": "^2.8.0",
+    "react-native-reanimated": "^3.8.1",
     "react-native-svg": "^12.3.0"
   },
   "devDependencies": {
